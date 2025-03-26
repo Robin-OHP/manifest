@@ -12,7 +12,7 @@
           review="gerrit.pixelexperience.org" />
 
   <remote name="pixel-gitlab"
-          fetch="https://gitlab.com/pixelos-aosp"
+          fetch="https://jihulab.com/zhz8888-Fork/PixelExperience"
           revision="thirteen" />
 
   <remote name="pixel-devices"
