@@ -15,7 +15,7 @@
   <project path="vendor/gms" name="vendor_gms" revision="thirteen-qpr1" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel-plus" />
-  <project path="vendor/oneplus/firmware" name="vendor_xiaomi-firmware" remote="https://jihulab.com/zhz8888-Fork/PixelExperience/vendor-blobs"
+  <project path="vendor/oneplus/firmware" name="vendor_xiaomi-firmware" fetch="https://jihulab.com/zhz8888-Fork/PixelExperience/vendor-blobs"
   clone-depth="1" revision="thirteen"/>ls
 
   <!-- Hardware repos -->
