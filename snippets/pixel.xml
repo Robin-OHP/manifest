@@ -11,11 +11,8 @@
           revision="thirteen-plus"
           review="gerrit.pixelexperience.org" />
 
-  <remote name="external_faceunlock-gitlab"
-          fetch="https://gitlab.com/pixelos-aosp"
-          revision="thirteen" />
-  <remote name="vendor_gms-gitlab"
-          fetch="https://jihulab.com/zhz8888-Fork/PixelExperience"
+  <remote name="pixel-gitlab"
+          fetch="https://gitlab.pixelexperience.org/android"
           revision="thirteen" />
 
   <remote name="pixel-devices"
