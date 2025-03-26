@@ -11,17 +11,17 @@
           revision="thirteen-plus"
           review="gerrit.pixelexperience.org" />
 
-  <remote name="pixel-gitlab"
-          fetch="https://gitlab.pixelexperience.org/android"
+  <remote name="external_faceunlock-gitlab"
+          fetch="https://gitlab.com/pixelos-aosp"
+          revision="thirteen" />
+  <remote name="vendor_gms-gitlab"
+          fetch="https://jihulab.com/zhz8888-Fork/PixelExperience"
           revision="thirteen" />
 
   <remote name="pixel-devices"
           fetch="https://github.com/PixelExperience-Devices"
           revision="thirteen" />
 
-  <remote name="pixel-devices-blobs"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
-          revision="thirteen" />
 
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
