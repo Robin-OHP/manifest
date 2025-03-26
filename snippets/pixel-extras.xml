@@ -15,7 +15,7 @@
   <project path="vendor/gms" name="vendor_gms" revision="thirteen-qpr1" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel-plus" />
-<!--  <project path="vendor/oneplus/firmware" name="vendor-blobs/vendor_xiaomi-firmware" remote="pixel-gitlab" clone-depth="1"/>-->
+  <project path="vendor/oneplus/firmware" name="vendor-blobs/vendor_xiaomi-firmware" remote="pixel-gitlab" clone-depth="1"/>
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="pixel" />
