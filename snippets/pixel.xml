@@ -22,7 +22,7 @@
           fetch="https://github.com/PixelExperience-Devices"
           revision="thirteen" />
   <remote name="pixel-devices-blobs"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
+          fetch="https://github.com/PixelExperience-Blobs"
           revision="thirteen" />
 
   <!-- External repos -->
